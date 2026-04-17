@@ -20,4 +20,4 @@ int main() {
     printf("Iterativo: %lld (Complexidade O(n))\n", fatorial_iterativo(n));
     printf("Recursivo: %lld (Complexidade O(n))\n", fatorial_recursivo(n));
     return 0;
-}
+} 
