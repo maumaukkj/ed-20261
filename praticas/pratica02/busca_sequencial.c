@@ -22,4 +22,4 @@ int main() {
     
     printf("Complexidade: Melhor Caso O(1), Pior Caso O(n)\n");
     return 0;
-}
+} 
