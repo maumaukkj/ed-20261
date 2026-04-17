@@ -28,4 +28,4 @@ int main() {
     printf("Tempo um laco: %f ms (O(n))\n", (double)(fim - inicio) * 1000 / CLOCKS_PER_SEC);
 
     return 0;
-}
+} 
